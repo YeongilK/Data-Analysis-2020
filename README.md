@@ -1,6 +1,6 @@
-# Basic Python Lecture
+# Data Analysis Lecture
 
-#### Python 기초 강좌
+#### Python 으로 수행하는 데이터 분석
 
 ## 머신러닝 파이썬 활용 빅데이터 분석 개발자 양성 과정
 

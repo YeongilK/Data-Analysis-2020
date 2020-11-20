@@ -20,7 +20,8 @@ def marker():
         folium.Marker(
             location=[df['위도'][i], df['경도'][i]],
             popup=df['도로명주소'][i], 
-            tooltip=f"{df['상호명'][i]}, {df['지점명'][i]}"
+            tooltip=f"{df['상호명'][i]}, {df['지점명'][i]}",
+            icon=folium.Icon(color=df.color[i], icon=df.icon[i])
         ).add_to(mapping)
     mapping
     return mapping._repr_html_()

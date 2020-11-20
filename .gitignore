@@ -1,5 +1,7 @@
 googlemapskey.txt
 roadapikey.txt
+kakaopmapkey.txt
+openweatherkey.txt
 
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/

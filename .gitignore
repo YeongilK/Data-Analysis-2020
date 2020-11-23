@@ -3,6 +3,7 @@ roadapikey.txt
 kakaopmapkey.txt
 openweatherkey.txt
 chromedriver.exe
+station_data/
 
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
